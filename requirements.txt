@@ -1,6 +1,4 @@
-streamlit==1.20.0
-opencv-python-headless==4.5.5.64
-numpy==1.23.5
-pytesseract==0.3.9
-easyocr==1.5.0
-Pillow==9.1.0
+streamlit==1.20.0  # Pinning Streamlit version to match your previous installation
+opencv-python-headless==4.5.4.60  # Using a compatible version for easyocr
+numpy==1.23.5  # Maintain the specified numpy version
+easyocr==1.5.0  # Using the compatible version
